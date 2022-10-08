@@ -1,0 +1,1 @@
+spectral images (corresponding to CTIS images) for training
