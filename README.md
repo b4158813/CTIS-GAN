@@ -8,4 +8,4 @@ Contents:
 - `MLEM_GIF.py`: The realization of MLEM-GIF algorithm.
 
 - `MIXED_CTIS_norm/`: folds containing training images (CTIS images)
-- `MIXED_dataset_64_64_31`: folds containing training spectral images (corresponding to the CTIS images)
+- `MIXED_dataset_64_64_31/`: folds containing training spectral images (corresponding to the CTIS images)
